@@ -1,5 +1,5 @@
 # DC_Supply_5.5kW
-This is the project page for an open Source 5.5kW 12-150VDC Supply (250A Max). The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
+This is the project page for an open source 5.5kW 12-150VDC Supply (250A Max). The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
 
 
 ## Target Output Range
