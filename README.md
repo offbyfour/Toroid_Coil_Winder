@@ -36,7 +36,7 @@ To start out, the first stage of this design will use an off the shelf converter
 
 But the main reason these supplies would be good to use is because they wont require significant exposure to high voltages which make them a little easier to DIY. Although there could be the drawback that this is probably not the most efficient way to Implement the design.
 
-Two paralleled supplies should be enough to meet the requirements for this design. When supplied with 240VAC, these supplies will output 48VDC @ 124A. However the plan is to operate at 90% capacity at most.
+Two paralleled supplies should be enough to meet the requirements for this design. When supplied with 240VAC, these supplies will output 48VDC @ 124A. However the plan is to operate at ~90% capacity or 114A.
 
 Eventually this stage will also be open source with a target conversion efficiency of 97%.
 
