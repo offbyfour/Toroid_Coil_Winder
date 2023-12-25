@@ -44,7 +44,7 @@ Eventually this stage will also be open source with a target conversion efficien
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/43a9c41e-d027-4d3e-b6df-ee028ca86305" width="225" height="125" /> 
 
-This stage of the design is what will involve most of the work in this project. The target efficiency for this stage is around 98%. 
+This stage of the design is what will involve most of the work in this project. The target efficiency for this part is around 98%. This is also the part of the design that will need to be able to handle at least 250A.
 
 Due to the wide output range necessary a cascaded buck-boost supply seems the best configuration. Also, because of the high efficiency requirements, GaN fets seem to be the best switch to use.
 
