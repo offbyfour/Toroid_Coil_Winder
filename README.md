@@ -24,13 +24,15 @@ The secondary goal of this design is to work with 120VAC@15A at a reduced power 
 ## AC/DC Conversion (First Stage Conversion)
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/3a0c926a-70ba-442c-9201-c35aaedb96d9" width="225" height="125" /> 
+
 The R48-3000e3 supplies have a few characteristics that  make it nice for this application:
+
 1. Cheap and easy to find  (about $100-$200 but even cheaper in some places)
 2. Programmable output voltage (42VDC-58VDC)
 3. Hot-pluggable and Stackable (for additional power support)
 4. Wide input voltage range (85 300VAC) for better flexibility and so that it can work with dirty supplies like generators.
 
-But the main reason these supplies would be good to use is because they wont require significant exposure to high voltages which make them a little easier to DIY. Although there could be the drawback that this is probably not the most efficient way to supply the circuit.
+But the main reason these supplies would be good to use is because they wont require significant exposure to high voltages which make them a little easier to DIY. Although there could be the drawback that this is probably not the most efficient way to Implement the design.
 
 Two paralleled supplies should be enough to meet the requirements for this design. When supplied with 240VAC, these supplies will output 48VDC @ 124A. However the plan is to operate at 90% capacity at most.
 
@@ -39,6 +41,5 @@ Two paralleled supplies should be enough to meet the requirements for this desig
 
 ## Sources
 1. Telecom Rectifier R48-3000e:https://www.vertiv.com/globalassets/products/critical-power/dc-power-systems/netsure-731-a412/r48-3000e3-datasheet.pdf
-2. 
-
+2. Common Power Outlets: https://getneocharge.com/a/blog/types-of-electrical-outlets-for-electric-car-chargers
 
