@@ -14,8 +14,7 @@ As shown in the graph above, the target output of this supply is 5.5kW or 250A, 
 
 ## Target Use Cases
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/fe7318e0-02b1-4852-ae78-f406d180a809" width="325" height="225" />
-
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/fe7318e0-02b1-4852-ae78-f406d180a809" width="125" height="125" /> <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/b6b53d70-a962-4253-9a7c-2ca6dcd8624b" width="125" height="125" />
 
 The primary goal of this supply is to maximize the power from the 240VAC@30A outlet found in most homes. From searching online, the most power that any device can safely pull from one of these circuits is 80% or 24A. At 240VAC, the most power that can be pulled from the wall is 5,760W. Because of this, the target efficiency of this design will be 95% resulting in 5,472W of output power.
 
@@ -24,8 +23,7 @@ The secondary goal of this design is to work with 120VAC@15A at a reduced power 
 
 ## AC/DC Conversion (First Stage Conversion)
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/3a0c926a-70ba-442c-9201-c35aaedb96d9" width="225" height="125" /> <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/b6b53d70-a962-4253-9a7c-2ca6dcd8624b" width="225" height="125" />
-
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/3a0c926a-70ba-442c-9201-c35aaedb96d9" width="225" height="125" /> 
 The R48-3000e3 supplies have a few characteristics that  make it nice for this application:
 1. Cheap and easy to find  (about $100-$200 but even cheaper in some places)
 2. Programmable output voltage (42VDC-58VDC)
