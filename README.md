@@ -27,7 +27,7 @@ The secondary goal of this design is to work with 120VAC@15A circuits at a reduc
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/3a0c926a-70ba-442c-9201-c35aaedb96d9" width="225" height="125" /> 
 
-To start out the first stage of this design will use an off the shelf converter. The R48-3000e3 supplies have a few characteristics that  make it nice for this application:
+To start out, the first stage of this design will use an off the shelf converter. The R48-3000e3 supplies have a few characteristics that  make it nice for this application:
 
 1. Cheap and easy to find  (about $100-$200 but even cheaper in some places)
 2. Programmable output voltage (42VDC-58VDC)
