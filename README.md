@@ -42,7 +42,7 @@ Eventually this stage will also be open source with a target conversion efficien
 
 ## DC/DC Conversion Second Stage Conversion
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/43a9c41e-d027-4d3e-b6df-ee028ca86305" width="225" height="125" /> 
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/43a9c41e-d027-4d3e-b6df-ee028ca86305" width="275" height="125" /> 
 
 This stage of the design is what will involve most of the work in this project. The target efficiency for this part is around 98%. This is also the part of the design that will need to be able to handle at least 250A.
 
@@ -51,7 +51,7 @@ Due to the wide output range necessary a cascaded buck-boost supply seems the be
 
 ## Project Status
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/4eff57e3-ac06-48fe-8114-b59e78c0e51f" width="325" height="125" /> 
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/4eff57e3-ac06-48fe-8114-b59e78c0e51f" width="375" height="125" /> 
 
 Right now this project is in the design stage. If you would like to contribute in any way feel free to make a pull request or email me at zero.offbyfour@gmail.com 
 
