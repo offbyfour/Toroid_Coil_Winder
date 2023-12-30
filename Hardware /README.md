@@ -14,7 +14,7 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 - 2m(6.5ft) 30A Cable
 - GFCI Protection
 - NEMA Plugs
-- - 14-30
+  - 14-30
   - 6-30
   - 5-15
   - 5-20
