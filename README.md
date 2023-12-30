@@ -51,7 +51,7 @@ Due to the wide output range necessary a cascaded buck-boost supply seems the be
 
 ## Project Status
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/4eff57e3-ac06-48fe-8114-b59e78c0e51f" width="225" height="125" /> 
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/4eff57e3-ac06-48fe-8114-b59e78c0e51f" width="325" height="125" /> 
 
 Right now this project is in the design stage. If you would like to contribute in any way feel free to make a pull request or email me at zero.offbyfour@gmail.com 
 
