@@ -27,3 +27,10 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 
 ### Output Interfaces 
 
+#### Features 
+- 2x 4m(13ft) 285A Cable (#1 AWG) (PWR + GND)
+- 4x 50mm Dinse Style Connector with air passthrough
+- 4x 50mm Dinse Style Receptacle with air passthrough
+
+
+
