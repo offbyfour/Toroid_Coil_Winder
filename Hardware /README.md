@@ -27,6 +27,8 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 
 ### Output Interfaces 
 
+The output interface is a floating positive and negative terminal. Since the output voltage can reach 150V, they need to be adequately protected. Since it will also be dealing with currents of around 250A, the connector will need to be low resistance. As a nice to have, it would be good if the connector would also support a gas passthrough.
+
 #### Features 
 - 2x 4m(13ft) 285A Cable (#1 AWG) (PWR + GND)
 - 4x 50mm Dinse Style Connector with air passthrough
