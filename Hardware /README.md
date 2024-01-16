@@ -21,7 +21,7 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 
 ### AC/DC Conversion
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/35438aee-e772-4b5f-b2c0-1dc19fe88750" width="525" height="425" />
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/35438aee-e772-4b5f-b2c0-1dc19fe88750" width="325" height="225" />
 
 
 ### Controller
