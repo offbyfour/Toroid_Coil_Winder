@@ -23,10 +23,21 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/d830a15b-c6bc-48bc-910b-730c702645bf" width="425" height="225" />
 
+The AC/DC conversion consists of an off the shelf converter used in parallel. The supply is programmable for 42VDC-58VDC operation through the PMBus interface. Current-controlled operation is also an option.
 
-### Controller
+#### AC Features 
+- Input Voltage: 85VAC-300VAC
+- Input Current: 24A
+- Line Frequency: 45-65Hz
+- Efficiency (@>20% load): >95%
+- Power Factor (@50-100% load) : >99%
+- 
+#### DC Features 
+
 
 ### DC/DC Conversion
+
+### Controller
 
 ### Output Interfaces 
 
@@ -37,5 +48,7 @@ The output interface is a floating positive and negative terminal. Since the out
 - 4x 50mm Dinse Style Connector with air passthrough
 - 4x 50mm Dinse Style Receptacle with air passthrough
 
+### Sources
 
+1. Pass Through Operation: https://www.analog.com/en/design-notes/4-switch-buck-boost-controller-with-pass-thru-capability-eliminates-switching-noise.html
 
