@@ -55,7 +55,7 @@ The controller will contain the interface which the user can use to set all the 
   - Peak current mode
 - Constant Resistance: AC and DC Operation. AC frequency will be limited to a max of 150Hz
 - Constant Power: AC and DC Operation. AC frequency will be limited to a max of 150Hz
-- Second Stage Passthrough: Operation mode  which eliminates EMI and switching losses, and maximizes efficiency (up to 99.9%) through the second stage converter. Passthrough operation passes the input directly to the output when the input voltage is within the output voltage range of the first stage.
+- Second Stage Passthrough: Operation mode which eliminates EMI and switching losses, and maximizes efficiency (up to 99.9%) through the second stage converter. Passthrough operation passes the input directly to the output when the input voltage is within the output voltage range of the first stage.
 
 ### Output Interfaces 
 
