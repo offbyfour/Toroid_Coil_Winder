@@ -35,14 +35,31 @@ The AC/DC conversion consists of an off the shelf converter used in parallel. Th
 - Output Voltage: 42VDC-58VDC
 - Output Current (max): 130A
 - Output Power (max):: 5,472W
-- Efficiency (@>20% load): >95%
+- Target Efficiency (@>20% load): >97%
 
 #### General Features 
 - Operating Temperature: -40C - 45C
 - Storage Temperature: -40C - 85C
   
 ### DC/DC Conversion
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/896f9e09-c65d-4644-9b35-155087ce87f8" width="425" height="225" />
 
+The DC/DC conversion will consist of a cascaded Buck-Boost converter. This configuration was chosen due to its high conversion efficiency.
+
+#### DC Input Features 
+- Input Voltage: 42VDC-58VDC
+- Input Current (max): 130A
+
+  
+#### DC Output Features 
+- Output Voltage: 12VDC-150VDC
+- Output Current (max): 250A
+- Output Power (max):: 5,472W
+- Target Efficiency (@>20% load): >98%
+
+#### General Features 
+- Operating Temperature: -40C - 45C
+- Storage Temperature: -40C - 85C
 
 ### Controller
 The controller will contain the interface which the user can use to set all the different modes and settings.
