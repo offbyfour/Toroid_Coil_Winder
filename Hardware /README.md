@@ -25,19 +25,37 @@ The input interface is basically how the supply gets connected to the wall. Sinc
 
 The AC/DC conversion consists of an off the shelf converter used in parallel. The supply is programmable for 42VDC-58VDC operation through the PMBus interface. Current-controlled operation is also an option.
 
-#### AC Features 
+#### AC Input Features 
 - Input Voltage: 85VAC-300VAC
-- Input Current: 24A
+- Input Current (max): 24A
 - Line Frequency: 45-65Hz
-- Efficiency (@>20% load): >95%
 - Power Factor (@50-100% load) : >99%
-- 
-#### DC Features 
+  
+#### DC Output Features 
+- Output Voltage: 42VDC-58VDC
+- Output Current (max): 130A
+- Output Power (max):: 5,472W
+- Efficiency (@>20% load): >95%
 
-
+#### General Features 
+- Operating Temperature: -40C - 45C
+- Storage Temperature: -40C - 85C
+  
 ### DC/DC Conversion
 
+
 ### Controller
+The controller will contain the interface which the user can use to set all the different modes and settings.
+
+#### Features 
+- Soft-Start 
+- Constant Voltage: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+- Constant Current: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+  - Average current mode
+  - Peak current mode
+- Constant Resistance: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+- Constant Power: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+- Second Stage Passthrough: Operation mode  which eliminates EMI and switching losses, and maximizes efficiency (up to 99.9%) through the second stage converter. Passthrough operation passes the input directly to the output when the input voltage is within the output voltage range of the first stage.
 
 ### Output Interfaces 
 
