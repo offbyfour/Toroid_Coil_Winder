@@ -42,7 +42,7 @@ The AC/DC conversion consists of an off the shelf converter used in parallel. Th
 - Storage Temperature: -40C - 85C
   
 ### DC/DC Conversion
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/896f9e09-c65d-4644-9b35-155087ce87f8" width="425" height="225" />
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/896f9e09-c65d-4644-9b35-155087ce87f8" width="525" height="225" />
 
 The DC/DC conversion will consist of a cascaded Buck-Boost converter. This configuration was chosen due to its high conversion efficiency.
 
