@@ -10,6 +10,8 @@ The architecture of this design consists of 5 main blocks with the most complex 
 ### Input Interfaces
 The input interface is basically how the supply gets connected to the wall. Since there are multiple plugs that can be used, the best solution seems to be something like the Miller MVP System. This system consists of a cable with a general purpose connector that can be connected to any specific connector the user needs.
 
+Miller video for reference:https://www.youtube.com/watch?v=PGal35EDwXY
+
 #### Features 
 - 2m(6.5ft) 30A Cable
 - GFCI Protection
