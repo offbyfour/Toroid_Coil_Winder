@@ -53,7 +53,7 @@ The DC/DC conversion will consist of a cascaded Buck-Boost converter. This confi
 #### DC Output Features 
 - Output Voltage: 12VDC-150VDC
 - Output Current (max): 250A
-- Output Power (max):: 5,420W
+- Output Power (max): 5,420W
 - Target Efficiency (@>20% load): >98%
 
 #### General Features 
