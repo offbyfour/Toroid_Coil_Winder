@@ -36,7 +36,7 @@ The AC/DC conversion consists of an off the shelf converter used in parallel. Th
 #### DC Output Features 
 - Output Voltage: 42VDC-58VDC
 - Output Current (max): 130A
-- Output Power (max):: 5,531W
+- Output Power (max): 5,531W
 - Target Efficiency (@>20% load): >97%
 
 #### General Features 
