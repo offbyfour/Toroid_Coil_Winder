@@ -88,4 +88,5 @@ The output interface is a floating positive and negative terminal. Since the out
 
 1. Pass Through Operation: https://www.analog.com/en/design-notes/4-switch-buck-boost-controller-with-pass-thru-capability-eliminates-switching-noise.html
 2. Constant Current and Voltage:https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/dc-power-supplies/understanding-constant-voltage-current-_256008.html
+3. Dinse-style connector: https://dinse-us.com/wp-content/uploads/sites/2/2014/07/DINSE_Plugs_Sockets_US.pdf
 
