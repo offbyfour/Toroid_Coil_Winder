@@ -3,7 +3,7 @@ This is the project page for an open source 5.5kW 12-150VDC Supply (250A Max).
 
 ## Design Architechture
 
-<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/448804d7-7648-45e1-bea0-705519238e38" width="525" height="225" />
+<img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/994654e8-f2a7-4c3c-b209-a4668d5c7fc9" width="525" height="225" />
 
 The architecture of this design consists of 5 main blocks with the most complex being the converters. Below is a breakdown of the functions and the features of each.
 
