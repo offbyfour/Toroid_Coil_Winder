@@ -34,7 +34,7 @@ The AC/DC conversion consists of an off the shelf converter used in parallel. Th
 #### DC Output Features 
 - Output Voltage: 42VDC-58VDC
 - Output Current (max): 130A
-- Output Power (max):: 5,472W
+- Output Power (max):: 5,531W
 - Target Efficiency (@>20% load): >97%
 
 #### General Features 
@@ -53,7 +53,7 @@ The DC/DC conversion will consist of a cascaded Buck-Boost converter. This confi
 #### DC Output Features 
 - Output Voltage: 12VDC-150VDC
 - Output Current (max): 250A
-- Output Power (max):: 5,472W
+- Output Power (max):: 5,420W
 - Target Efficiency (@>20% load): >98%
 
 #### General Features 
@@ -65,12 +65,12 @@ The controller will contain the interface which the user can use to set all the 
 
 #### Features 
 - Soft-Start 
-- Constant Voltage: AC and DC Operation. AC frequency will be limited to a max of 150Hz
-- Constant Current: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+- Constant Voltage
+- Constant Current
   - Average current mode
   - Peak current mode
-- Constant Resistance: AC and DC Operation. AC frequency will be limited to a max of 150Hz
-- Constant Power: AC and DC Operation. AC frequency will be limited to a max of 150Hz
+- Constant Resistance
+- Constant Power
 - Second Stage Passthrough: Operation mode which eliminates EMI and switching losses, and maximizes efficiency (up to 99.9%) through the second stage converter. Passthrough operation passes the input directly to the output when the input voltage is within the output voltage range of the first stage.
 
 ### Output Interfaces 
