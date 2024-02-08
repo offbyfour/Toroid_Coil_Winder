@@ -9,3 +9,4 @@
 7. infineon 48/12V 100A Buck: https://www.analog.com/media/en/reference-design-documentation/reference-designs/maxrefdes1258.pdf
 8. Automotive DC-Buck Design: https://www.mouser.com/blog/48v-electrical-systems-shift-into-high-gear
 9. 48v/36v Buck Design:https://vtechworks.lib.vt.edu/server/api/core/bitstreams/dbbddf0e-cbc8-48e6-b68d-b5ddd8a52baf/content
+10. 48v/12v 3.5kW Buck Design: https://doi.org/10.1109/WiPDA.2018.8569067
