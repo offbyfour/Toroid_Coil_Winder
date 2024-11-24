@@ -1,5 +1,5 @@
-# Toroid Coil Winder
-This is the project page for an open source Toroid Coil Winder. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
+# Toroidal Coil Winder
+This is the project page for an open source Toroidal Coil Winder. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
 
 
 ## Target Output Range
@@ -57,7 +57,5 @@ Right now this project is in the design stage. If you would like to contribute i
 
 
 ## Sources
-1. Telecom Rectifier R48-3000e:https://www.vertiv.com/globalassets/products/critical-power/dc-power-systems/netsure-731-a412/r48-3000e3-datasheet.pdf
-2. Common Power Outlets: https://getneocharge.com/a/blog/types-of-electrical-outlets-for-electric-car-chargers
-3. DC/DC Design Topologies: https://journals.pan.pl/dlibra/publication/135986/edition/118907/content/international-journal-of-electronics-and-telecommunications-2021-vol-67-no-3-design-analysis-and-comparison-of-si-and-gan-based-dc-dc-wide-input-voltage-rangebuck-boost-converters-br-koszel-mikolaj-grzejszczak-piotr-nowatkiewicz-bartosz-wolski-kornel?language=en
+1. 
 
