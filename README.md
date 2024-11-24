@@ -1,5 +1,5 @@
-# DC_Supply_5.5kW
-This is the project page for an open source 5.5kW 12-150VDC Supply (250A Max). The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
+# Toroid Coil Winder
+This is the project page for an open source Toroid Coil Winder. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.   
 
 
 ## Target Output Range
@@ -40,7 +40,7 @@ Two paralleled supplies should be enough to meet the requirements for this desig
 
 Eventually this stage will also be open source with a target conversion efficiency of 97%.
 
-## DC/DC Conversion Second Stage Conversion
+## Power Requirements
 
 <img src="https://github.com/offbyfour/DC_Supply_5p5kW/assets/124545095/43a9c41e-d027-4d3e-b6df-ee028ca86305" width="275" height="125" /> 
 
